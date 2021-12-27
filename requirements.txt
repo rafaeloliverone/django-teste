@@ -7,4 +7,3 @@ gunicorn
 django-cors-headers
 psycopg2
 whitenoise
-sqlite3
